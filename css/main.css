@@ -1,0 +1,295 @@
+/*  General Styling
+==============================*/
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: #171717;
+  color: #D9D9D9;
+  font-family: 'Raleway', sans-serif;
+}
+
+.main-header,
+.portfolio,
+.contact-info,
+footer {
+  margin: auto;
+  width: 90%;
+  max-width: 1100px;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.5em;
+  padding: 25px 0 10px;
+  margin: 0 auto;
+  border-bottom: 1px solid darkgrey;
+}
+
+h2 {
+  font-size: 1.2em;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: normal;
+}
+
+.clear-fix::after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+
+div.test {
+  display: none;
+}
+
+.sticky-footer {
+  min-height: calc(100vh - 75px);
+}
+
+
+
+/*  Heading
+==============================*/
+
+.header-background {
+  height: 100px;
+  width: 100%;
+}
+
+.main-header {
+  height: 100%;
+}
+
+.main-header p {
+  display: none;
+  font-size: 1.2em;
+  font-family: 'Quicksand', sans-serif;
+}
+
+p.link-button {
+  display: block;
+  padding: 10px 0 25px;
+  margin: 0 auto;  
+}
+
+
+
+/*  Portfolio
+==============================*/
+
+.portfolio p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+.portfolio li {
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+}
+
+.portfolio li:nth-child(2n + 1) {
+  clear: left;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+a,
+.portfolio a:hover {
+  text-decoration: none;
+  color: #D9D9D9;
+}
+
+.portfolio a:hover {
+  opacity: 0.6;
+}
+
+
+
+/*  Contact Info
+==============================*/
+
+.contact-info p {
+  text-align: left;
+}
+
+.contact-info li {
+  text-align: center;
+  padding: 10px 0;
+}
+
+
+
+/*  Footer
+==============================*/
+
+footer {
+  text-align: center;
+  font-size: 0.8em;
+  color: #BDBDBD;
+  height: 75px;
+}
+
+footer p {
+  margin-top: 27px;
+}
+
+
+
+/*  Media Queries
+==============================*/
+
+@media screen and (min-width: 500px) {
+  
+  /*  Heading
+  ==============================*/
+  
+  .header-background {
+    background-image: linear-gradient(to left, #171717, transparent 99%),
+      linear-gradient(to right, #171717, transparent 99%),
+      linear-gradient(transparent, #171717 95%),
+      url('../img/portfolio-cover.jpg');                      
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    height: 200px;
+  }
+  
+  .main-header {
+    height: 100%;
+    border-bottom: 1px solid darkgrey;
+  }
+
+  h1 {
+    font-size: 2em;
+    padding: 50px 0 30px;
+    margin: 0;
+    text-align: left;
+    border-bottom: none;
+    width: initial;
+  }
+  
+  h2 {
+    display: none;
+  }
+  
+  .main-header p {
+    display: block;
+    float: left;
+    font-size: 1.1em;
+  }
+  
+  p.link-button {
+    float: right;
+    padding: initial;
+    margin: 1em 0;
+    font-weight: bold;
+  }
+  
+  
+  
+  /*  Contact Info
+  ==============================*/
+  
+  .contact-info p,
+  .contact-info a {
+    font-size: 1.2em;
+    text-align: left;
+  }
+  
+  .col {
+    float: left;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-sizing: border-box;
+  }
+  
+  .about {
+    width: 45%;
+  }
+  
+  .contact-links {
+    margin-top: 50px;
+    width: 35%;
+  }
+  
+  .contact-info li {
+    text-align: left;
+  }
+}
+
+
+
+@media screen and (min-width: 900px) {
+  
+  /*  Heading
+  ==============================*/
+
+  .header-background {
+    height: 250px;
+  }
+  
+  .main-header {
+    height: 100%;
+  }
+  
+  h1 {
+    padding: 70px 0 30px;
+    font-size: 2.5em;
+  }
+  
+  .main-header p {
+    font-size: 1.5em;
+  }
+  
+  p.link-button {
+    opacity: 0;
+  }
+    
+    
+  
+  /*  Portfolio
+  ==============================*/
+  
+  .portfolio li {
+    width: 28.3333%;;
+  }
+  
+  .portfolio li:nth-child(2n + 1) {
+    clear: none;
+  }
+  
+  .portfolio li:nth-child(3n + 1) {
+    clear: left;
+  }
+}
+
+
+
+/*  Footer fix for various screen sizes */
+
+@media (max-height: 500px) {
+  .sticky-footer {
+    min-height: initial;
+  }
+}
