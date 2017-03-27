@@ -12,12 +12,12 @@ BUILDDIR      = _build
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: build clean help Makefile
+.PHONY: build clean_portfolio help Makefile
 
-portfolio: html clean
+portfolio: html clean clean_portfolio
 	cp -r _build/html/. ../
 
-clean:
+clean_portfolio:
 	rm -rf ../*.html ../*.js ../*.inv ../_static ../_sources
 
 # Catch-all target: route all unknown targets to Sphinx using the new
