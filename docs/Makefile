@@ -12,13 +12,16 @@ BUILDDIR      = _build
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: build clean_portfolio help Makefile
+.PHONY: build clean html clean_portfolio pdf help Makefile
 
-portfolio: clean clean_portfolio html
+portfolio: clean clean_portfolio html pdf
 	cp -r _build/html/. ../
 
 clean_portfolio:
 	rm -rf ../*.html ../*.js ../*.inv ../_static ../_sources
+
+pdf:
+	rst2pdf index.rst ../resume.pdf
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
