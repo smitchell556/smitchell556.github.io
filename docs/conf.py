@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.githubpages']
+extensions = ['sphinx.ext.githubpages', 'rst2pdf.pdfbuilder']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -154,3 +154,12 @@ texinfo_documents = [
      author, 'Resume', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+
+# -- Options for PDF output -----------------------------------------------
+
+pdf_documents = [
+    ('index', u'resume', u'Spencer Mitchell', u'Spencer Mitchell')
+]
+
+pdf_toc_depth = 1

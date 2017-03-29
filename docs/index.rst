@@ -12,7 +12,8 @@ Spencer Mitchell
 
 Currently a CS student at Oregon State University and Jr. Developer at SED
 Quaere. My main language proficiency is Python, followed by C/C++, Scheme, and
-JavaScript.
+JavaScript. A pdf version of this page can be found
+`here <https://github.com/smitchell556/smitchell556.github.io/blob/master/resume.pdf>`_
 
 
 ******************
