@@ -115,12 +115,13 @@ March 2016 - Present
 `Coursework`
 
 * Web Development
-
-   * `Adapt Tutorial <https://smitchell556.github.io/CS-290>`_
-
 * Data Structures
 * Computer Architecture & Assembly Language
 * Intro to Computer Science I & II
+
+`Projects`
+
+* `Adapt Tutorial <https://smitchell556.github.io/CS-290>`_
 
 University of California, San Diego
 ===================================
