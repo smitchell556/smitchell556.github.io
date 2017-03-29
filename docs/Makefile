@@ -14,7 +14,7 @@ help:
 
 .PHONY: build clean_portfolio help Makefile
 
-portfolio: html clean clean_portfolio
+portfolio: clean clean_portfolio html
 	cp -r _build/html/. ../
 
 clean_portfolio:
