@@ -41,14 +41,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://cuttle.readthedocs.io)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 480.0236 108.4729 492.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 480.0236 240.2029 492.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/smitchell556/cuttle)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 462.0236 115.1529 474.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 462.0236 288.5529 474.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
@@ -60,7 +60,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://smitchell556.github.io/CS-290)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 228.0236 147.9429 240.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 228.0236 320.2329 240.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
@@ -84,7 +84,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://linkedin.com/in/spencerjmitchell)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 750.0236 123.4929 762.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 750.0236 303.5429 762.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
@@ -104,7 +104,7 @@ endobj
 endobj
 16 0 obj
 <<
-/Author () /CreationDate (D:20170328195426+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170328195426+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20170328200357+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170328200357+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Spencer Mitchell) /Trapped /False
 >>
 endobj
@@ -693,7 +693,7 @@ endstream
 endobj
 37 0 obj
 <<
-/Length 6609
+/Length 6728
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -908,7 +908,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Docs) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Docs \(https://cuttle.readthedocs.io\)) Tj  T* ET
 Q
 Q
 q
@@ -931,7 +931,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Github) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Github \(https://github.com/smitchell556/cuttle\)) Tj  T* ET
 Q
 Q
 q
@@ -1099,7 +1099,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Adapt Tutorial) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Adapt Tutorial \(https://smitchell556.github.io/CS-290\)) Tj  T* ET
 Q
 Q
 q
@@ -1174,7 +1174,7 @@ endstream
 endobj
 38 0 obj
 <<
-/Length 342
+/Length 387
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1192,7 +1192,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (LinkedIn) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (LinkedIn \(https://linkedin.com/in/spencerjmitchell\)) Tj  T* ET
 Q
 Q
 q
@@ -1264,15 +1264,15 @@ xref
 0000005285 00000 n 
 0000005359 00000 n 
 0000012053 00000 n 
-0000018714 00000 n 
-0000019107 00000 n 
-0000019166 00000 n 
-0000019200 00000 n 
-0000019234 00000 n 
+0000018833 00000 n 
+0000019271 00000 n 
+0000019330 00000 n 
+0000019364 00000 n 
+0000019398 00000 n 
 trailer
 <<
 /ID 
-[<582de4a4757367f1fe453f13d2b2ced0><582de4a4757367f1fe453f13d2b2ced0>]
+[<9bd7b487531f54cd08141a8e20049553><9bd7b487531f54cd08141a8e20049553>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 16 0 R
@@ -1280,5 +1280,5 @@ trailer
 /Size 43
 >>
 startxref
-19268
+19432
 %%EOF

@@ -97,8 +97,8 @@ Cuttle
 
 A small, extendable ORM.
 
-* `Docs <https://cuttle.readthedocs.io>`_
-* `Github <https://github.com/smitchell556/cuttle>`_
+* `Docs (https://cuttle.readthedocs.io) <https://cuttle.readthedocs.io>`_
+* `Github (https://github.com/smitchell556/cuttle) <https://github.com/smitchell556/cuttle>`_
 
 
 *********
@@ -122,7 +122,7 @@ March 2016 - Present
 
 `Projects`
 
-* `Adapt Tutorial <https://smitchell556.github.io/CS-290>`_
+* `Adapt Tutorial (https://smitchell556.github.io/CS-290) <https://smitchell556.github.io/CS-290>`_
 
 University of California, San Diego
 ===================================
@@ -140,4 +140,4 @@ Contact
 Feel free to contact me for any general queries or requests.
 
 * `Email (smitchell556@gmail.com) <smitchell556@gmail.com>`_
-* `LinkedIn <https://linkedin.com/in/spencerjmitchell>`_
+* `LinkedIn (https://linkedin.com/in/spencerjmitchell) <https://linkedin.com/in/spencerjmitchell>`_
