@@ -28,22 +28,9 @@ Jr. Software Developer
 
 July 2016 - Present
 
-* Created several full stack web applications
-
-   Features included:
-
-   * User login/logout funciontality
-   * Permissions system for allowing/denying users access to specific pages
-   * Downloading files from a file system
-   * Displaying system data
-   * Storing user input in SQL databases
-
-   Technologies used:
-
-   * Flask
-   * React
-   * uWSGI
-   * NGINX
+* Make full stack web applications using Flask, uWSGI, and NGINX, that allow
+  users to interact with the file system and track customers and machine parts.
+* Write Python scripts on an as needed basis.
 
 Dartmouth-Hitchcock
 ===================
@@ -53,9 +40,9 @@ Lab Technician
 
 September 2015 - June 2016
 
-* Process hosptial samples for appropriate tests
-* Provide support for doctors and nurses regarding proper sample handling and
-  collection
+* Processed hosptial samples for appropriate tests.
+* Provided support for doctors and nurses regarding proper sample handling and
+  collection.
 
 City of Pomona
 ==============
@@ -65,9 +52,9 @@ Community Services Specialist II
 
 February 2014 - June 2015
 
-* Supervised four after school recreation sites
+* Supervised four after school recreation sites.
 * Created programming that was implemented across all recreation sites in
-  Pomona with a focus on physical activities
+  Pomona with a focus on physical activities.
 
 University of California, San Diego
 ===================================
@@ -78,14 +65,8 @@ Research Assistant
 July 2012 - June 2013
 
 * Assisted senior scientists with research experiments on nuclear pore proteins
-  and their configuration during mitosis
-
-   Techniques used:
-
-   * Western blotting
-   * Immunoprecipitation
-   * Immunofluorescence
-   * Cell culture
+  and their configuration during mitosis using western blotting,
+  immunoprecipitations, immunofluorescence, and cell culture.
 
 
 *****************
@@ -95,7 +76,9 @@ Personal Projects
 Cuttle
 ======
 
-A small, extendable ORM.
+A Python ORM that creates relational databases and manipulates tables. It's goal
+is to be easy to use and extendable by allowing users to write custom methods on
+the user defined subclasses that represent the database tables.
 
 * `Docs (https://cuttle.readthedocs.io) <https://cuttle.readthedocs.io>`_
 * `Github (https://github.com/smitchell556/cuttle) <https://github.com/smitchell556/cuttle>`_
@@ -113,16 +96,12 @@ B.S. Computer Science (In Progress)
 
 March 2016 - Present
 
-`Coursework`
-
-* Web Development
-* Data Structures
-* Computer Architecture & Assembly Language
-* Intro to Computer Science I & II
-
-`Projects`
+`Class Projects`
 
 * `Adapt Tutorial (https://smitchell556.github.io/CS-290) <https://smitchell556.github.io/CS-290>`_
+
+.. note:: This is not indicative of all the projects done at OSU, but those
+          that are allowed to be made public by the professors.
 
 University of California, San Diego
 ===================================
