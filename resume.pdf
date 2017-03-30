@@ -94,7 +94,7 @@ endobj
 endobj
 15 0 obj
 <<
-/Author () /CreationDate (D:20170329211326+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170329211326+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20170330103135+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170330103135+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Spencer Mitchell) /Trapped /False
 >>
 endobj
@@ -204,7 +204,7 @@ endobj
 endobj
 35 0 obj
 <<
-/Length 6034
+/Length 6032
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -267,7 +267,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .929984 Tw (Make full stack web applications using Flask, uWSGI, and NGINX, that allow users to interact with) Tj T* 0 Tw (the file system and track customers and machine parts.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .150651 Tw (Make full stack web applications using Flask, uWSGI, and NGINX, that focus on interactions with the) Tj T* 0 Tw (file system and storing client data and inventory.) Tj T* ET
 Q
 Q
 q
@@ -814,14 +814,14 @@ xref
 0000004954 00000 n 
 0000005063 00000 n 
 0000005130 00000 n 
-0000011216 00000 n 
-0000014660 00000 n 
-0000014710 00000 n 
-0000014744 00000 n 
+0000011214 00000 n 
+0000014658 00000 n 
+0000014708 00000 n 
+0000014742 00000 n 
 trailer
 <<
 /ID 
-[<6d8d73f4417e283c4e8d9dbc82c3deeb><6d8d73f4417e283c4e8d9dbc82c3deeb>]
+[<a968dcaf5ff27b5caaf5fb9decc3ccff><a968dcaf5ff27b5caaf5fb9decc3ccff>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 15 0 R
@@ -829,5 +829,5 @@ trailer
 /Size 40
 >>
 startxref
-14778
+14776
 %%EOF

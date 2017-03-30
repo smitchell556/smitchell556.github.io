@@ -28,8 +28,8 @@ Jr. Software Developer
 
 July 2016 - Present
 
-* Make full stack web applications using Flask, uWSGI, and NGINX, that allow
-  users to interact with the file system and track customers and machine parts.
+* Make full stack web applications using Flask, uWSGI, and NGINX, that focus
+  on interactions with the file system and storing client data and inventory.
 * Write Python scripts on an as needed basis.
 
 Dartmouth-Hitchcock
