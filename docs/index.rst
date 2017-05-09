@@ -13,7 +13,7 @@ Spencer Mitchell
 Currently a CS student at Oregon State University and Jr. Developer at SED
 Quaere. My main language proficiency is Python, followed by C/C++, Scheme, and
 JavaScript. A pdf version of this page can be found
-`here <https://github.com/smitchell556/smitchell556.github.io/blob/master/resume.pdf>`_
+`here <https://github.com/smitchell556/smitchell556.github.io/blob/master/resume.pdf>`_.
 
 
 ******************
@@ -81,7 +81,15 @@ is to be easy to use and extendable by allowing users to write custom methods on
 the user defined subclasses that represent the database tables.
 
 * `Docs (https://cuttle.readthedocs.io) <https://cuttle.readthedocs.io>`_
-* `Github (https://github.com/smitchell556/cuttle) <https://github.com/smitchell556/cuttle>`_
+* `GitHub (https://github.com/smitchell556/cuttle) <https://github.com/smitchell556/cuttle>`_
+
+Cuttle Pool
+===========
+
+A connection pooling implementation in Python that accepts any SQL driver.
+
+* `Docs/GitHub (https://github.com/smitchell556/cuttlepool)
+  <https://github.com/smitchell556/cuttlepool>`_
 
 
 *********
