@@ -73,14 +73,13 @@ July 2012 - June 2013
 Personal Projects
 *****************
 
-Cuttle
-======
+Cuttle [DEPRECATED]
+===================
 
 A Python ORM that creates relational databases and manipulates tables. It's goal
 is to be easy to use and extendable by allowing users to write custom methods on
 the user defined subclasses that represent the database tables.
 
-* `Docs (https://cuttle.readthedocs.io) <https://cuttle.readthedocs.io>`_
 * `GitHub (https://github.com/smitchell556/cuttle) <https://github.com/smitchell556/cuttle>`_
 
 Cuttle Pool
