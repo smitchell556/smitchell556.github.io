@@ -14,7 +14,7 @@ pyparsing==2.2.0
 pytz==2016.10
 reportlab==3.4.0
 requests==2.13.0
-rst2pdf==0.93.dev0
+rst2pdf==0.93
 six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.5.3
