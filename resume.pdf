@@ -29,14 +29,7 @@ endobj
 endobj
 6 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/smitchell556/cuttle)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 74.02362 290.2129 86.02362 ] /Subtype /Link /Type /Annot
->>
-endobj
-7 0 obj
-<<
-/Annots [ 4 0 R 6 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Annots [ 4 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -44,11 +37,18 @@ endobj
 >> /Type /Page
 >>
 endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/smitchell556/cuttle)
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 750.0236 290.2129 762.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/smitchell556/cuttlepool)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 708.0236 334.6729 720.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 684.0236 334.6729 696.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
@@ -60,26 +60,26 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://smitchell556.github.io/CS-290)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 564.0236 320.2329 576.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 540.0236 320.2329 552.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:smitchell556@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 319.0236 231.4129 331.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 295.0236 231.4129 307.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://linkedin.com/in/spencerjmitchell)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 301.0236 303.5429 313.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 277.0236 303.5429 289.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Annots [ 8 0 R 10 0 R 11 0 R 12 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Annots [ 7 0 R 8 0 R 10 0 R 11 0 R 12 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -94,7 +94,7 @@ endobj
 endobj
 15 0 obj
 <<
-/Author () /CreationDate (D:20170922211828+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170922211828+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20171101110622+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20171101110622+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Spencer Mitchell) /Trapped /False
 >>
 endobj
@@ -105,111 +105,111 @@ endobj
 endobj
 17 0 obj
 <<
-/Count 8 /Dest [ 7 0 R /XYZ 62.69291 683.0236 0 ] /First 18 0 R /Last 24 0 R /Next 26 0 R /Parent 16 0 R 
+/Count 8 /Dest [ 6 0 R /XYZ 62.69291 683.0236 0 ] /First 18 0 R /Last 24 0 R /Next 26 0 R /Parent 16 0 R 
   /Title (Employment History)
 >>
 endobj
 18 0 obj
 <<
-/Count 1 /Dest [ 7 0 R /XYZ 62.69291 650.0236 0 ] /First 19 0 R /Last 19 0 R /Next 20 0 R /Parent 17 0 R 
+/Count 1 /Dest [ 6 0 R /XYZ 62.69291 650.0236 0 ] /First 19 0 R /Last 19 0 R /Next 20 0 R /Parent 17 0 R 
   /Title (SED Quaere)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 620.0236 0 ] /Parent 18 0 R /Title (Jr. Software Developer)
+/Dest [ 6 0 R /XYZ 62.69291 620.0236 0 ] /Parent 18 0 R /Title (Jr. Software Developer)
 >>
 endobj
 20 0 obj
 <<
-/Count 1 /Dest [ 7 0 R /XYZ 62.69291 527.0236 0 ] /First 21 0 R /Last 21 0 R /Next 22 0 R /Parent 17 0 R 
+/Count 1 /Dest [ 6 0 R /XYZ 62.69291 509.0236 0 ] /First 21 0 R /Last 21 0 R /Next 22 0 R /Parent 17 0 R 
   /Prev 18 0 R /Title (Dartmouth-Hitchcock)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 497.0236 0 ] /Parent 20 0 R /Title (Lab Technician)
+/Dest [ 6 0 R /XYZ 62.69291 479.0236 0 ] /Parent 20 0 R /Title (Lab Technician)
 >>
 endobj
 22 0 obj
 <<
-/Count 1 /Dest [ 7 0 R /XYZ 62.69291 416.0236 0 ] /First 23 0 R /Last 23 0 R /Next 24 0 R /Parent 17 0 R 
+/Count 1 /Dest [ 6 0 R /XYZ 62.69291 398.0236 0 ] /First 23 0 R /Last 23 0 R /Next 24 0 R /Parent 17 0 R 
   /Prev 20 0 R /Title (City of Pomona)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 386.0236 0 ] /Parent 22 0 R /Title (Community Services Specialist II)
+/Dest [ 6 0 R /XYZ 62.69291 368.0236 0 ] /Parent 22 0 R /Title (Community Services Specialist II)
 >>
 endobj
 24 0 obj
 <<
-/Count 1 /Dest [ 7 0 R /XYZ 62.69291 293.0236 0 ] /First 25 0 R /Last 25 0 R /Parent 17 0 R /Prev 22 0 R 
+/Count 1 /Dest [ 6 0 R /XYZ 62.69291 275.0236 0 ] /First 25 0 R /Last 25 0 R /Parent 17 0 R /Prev 22 0 R 
   /Title (University of California, San Diego)
 >>
 endobj
 25 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 263.0236 0 ] /Parent 24 0 R /Title (Research Assistant)
+/Dest [ 6 0 R /XYZ 62.69291 245.0236 0 ] /Parent 24 0 R /Title (Research Assistant)
 >>
 endobj
 26 0 obj
 <<
-/Count 2 /Dest [ 7 0 R /XYZ 62.69291 188.0236 0 ] /First 27 0 R /Last 28 0 R /Next 29 0 R /Parent 16 0 R 
+/Count 2 /Dest [ 6 0 R /XYZ 62.69291 170.0236 0 ] /First 27 0 R /Last 28 0 R /Next 29 0 R /Parent 16 0 R 
   /Prev 17 0 R /Title (Personal Projects)
 >>
 endobj
 27 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 155.0236 0 ] /Next 28 0 R /Parent 26 0 R /Title (Cuttle [DEPRECATED])
+/Dest [ 6 0 R /XYZ 62.69291 137.0236 0 ] /Next 28 0 R /Parent 26 0 R /Title (Cuttle [DEPRECATED])
 >>
 endobj
 28 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 765.0236 0 ] /Parent 26 0 R /Prev 27 0 R /Title (Cuttle Pool)
+/Dest [ 13 0 R /XYZ 62.69291 741.0236 0 ] /Parent 26 0 R /Prev 27 0 R /Title (Cuttle Pool)
 >>
 endobj
 29 0 obj
 <<
-/Count 4 /Dest [ 13 0 R /XYZ 62.69291 699.0236 0 ] /First 30 0 R /Last 32 0 R /Next 34 0 R /Parent 16 0 R 
+/Count 4 /Dest [ 13 0 R /XYZ 62.69291 675.0236 0 ] /First 30 0 R /Last 32 0 R /Next 34 0 R /Parent 16 0 R 
   /Prev 26 0 R /Title (Education)
 >>
 endobj
 30 0 obj
 <<
-/Count 1 /Dest [ 13 0 R /XYZ 62.69291 666.0236 0 ] /First 31 0 R /Last 31 0 R /Next 32 0 R /Parent 29 0 R 
+/Count 1 /Dest [ 13 0 R /XYZ 62.69291 642.0236 0 ] /First 31 0 R /Last 31 0 R /Next 32 0 R /Parent 29 0 R 
   /Title (Oregon State University)
 >>
 endobj
 31 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 636.0236 0 ] /Parent 30 0 R /Title (B.S. Computer Science \(In Progress\))
+/Dest [ 13 0 R /XYZ 62.69291 612.0236 0 ] /Parent 30 0 R /Title (B.S. Computer Science \(In Progress\))
 >>
 endobj
 32 0 obj
 <<
-/Count 1 /Dest [ 13 0 R /XYZ 62.69291 454.0236 0 ] /First 33 0 R /Last 33 0 R /Parent 29 0 R /Prev 30 0 R 
+/Count 1 /Dest [ 13 0 R /XYZ 62.69291 430.0236 0 ] /First 33 0 R /Last 33 0 R /Parent 29 0 R /Prev 30 0 R 
   /Title (University of California, San Diego)
 >>
 endobj
 33 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 424.0236 0 ] /Parent 32 0 R /Title (B.S. Cell Biology \(Completed\))
+/Dest [ 13 0 R /XYZ 62.69291 400.0236 0 ] /Parent 32 0 R /Title (B.S. Cell Biology \(Completed\))
 >>
 endobj
 34 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 379.0236 0 ] /Parent 16 0 R /Prev 29 0 R /Title (Contact)
+/Dest [ 13 0 R /XYZ 62.69291 355.0236 0 ] /Parent 16 0 R /Prev 29 0 R /Title (Contact)
 >>
 endobj
 35 0 obj
 <<
-/Count 2 /Kids [ 7 0 R 13 0 R ] /Type /Pages
+/Count 2 /Kids [ 6 0 R 13 0 R ] /Type /Pages
 >>
 endobj
 36 0 obj
 <<
-/Length 6071
+/Length 6046
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -272,7 +272,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .150651 Tw (Make full stack web applications using Flask, uWSGI, and NGINX, that focus on interactions with the) Tj T* 0 Tw (file system and storing client data and inventory.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.817984 Tw (Make full stack web applications using Flask and NGINX, that focus on interactions with the file) Tj T* 0 Tw (system and storing client data and inventory.) Tj T* ET
 Q
 Q
 q
@@ -296,42 +296,66 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write Python scripts on an as needed basis.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created software using Golang for executing system commands on remote servers.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 539.0236 cm
+1 0 0 1 62.69291 533.0236 cm
 Q
 q
-1 0 0 1 62.69291 509.0236 cm
+1 0 0 1 62.69291 521.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write scripts on an as needed basis.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 491.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Dartmouth-Hitchcock) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 482.0236 cm
+1 0 0 1 62.69291 464.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Lab Technician) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 464.0236 cm
+1 0 0 1 62.69291 446.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (September 2015 - June 2016) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 458.0236 cm
+1 0 0 1 62.69291 440.0236 cm
 Q
 q
-1 0 0 1 62.69291 458.0236 cm
+1 0 0 1 62.69291 440.0236 cm
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -352,10 +376,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 440.0236 cm
+1 0 0 1 62.69291 422.0236 cm
 Q
 q
-1 0 0 1 62.69291 428.0236 cm
+1 0 0 1 62.69291 410.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -376,35 +400,35 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 428.0236 cm
+1 0 0 1 62.69291 410.0236 cm
 Q
 q
-1 0 0 1 62.69291 398.0236 cm
+1 0 0 1 62.69291 380.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (City of Pomona) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 371.0236 cm
+1 0 0 1 62.69291 353.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Community Services Specialist II) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 353.0236 cm
+1 0 0 1 62.69291 335.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (February 2014 - June 2015) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 347.0236 cm
+1 0 0 1 62.69291 329.0236 cm
 Q
 q
-1 0 0 1 62.69291 347.0236 cm
+1 0 0 1 62.69291 329.0236 cm
 Q
 q
-1 0 0 1 62.69291 335.0236 cm
+1 0 0 1 62.69291 317.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -425,10 +449,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 329.0236 cm
+1 0 0 1 62.69291 311.0236 cm
 Q
 q
-1 0 0 1 62.69291 305.0236 cm
+1 0 0 1 62.69291 287.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -449,35 +473,35 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 305.0236 cm
+1 0 0 1 62.69291 287.0236 cm
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
+1 0 0 1 62.69291 257.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (University of California, San Diego) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 248.0236 cm
+1 0 0 1 62.69291 230.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Research Assistant) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 230.0236 cm
+1 0 0 1 62.69291 212.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (July 2012 - June 2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 224.0236 cm
+1 0 0 1 62.69291 206.0236 cm
 Q
 q
-1 0 0 1 62.69291 224.0236 cm
+1 0 0 1 62.69291 206.0236 cm
 Q
 q
-1 0 0 1 62.69291 200.0236 cm
+1 0 0 1 62.69291 182.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -498,35 +522,44 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 200.0236 cm
+1 0 0 1 62.69291 182.0236 cm
 Q
 q
-1 0 0 1 62.69291 167.0236 cm
+1 0 0 1 62.69291 149.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Personal Projects) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 137.0236 cm
+1 0 0 1 62.69291 119.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Cuttle [DEPRECATED]) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 95.02362 cm
+1 0 0 1 62.69291 77.02362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .121098 Tw (A Python ORM that creates relational databases and manipulates tables. It's goal is to be easy to use and) Tj T* 0 Tw .570651 Tw (extendable by allowing users to write custom methods on the user defined subclasses that represent the) Tj T* 0 Tw (database tables.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 89.02362 cm
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+37 0 obj
+<<
+/Length 4110
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 765.0236 cm
 Q
 q
-1 0 0 1 62.69291 89.02362 cm
-Q
-q
-1 0 0 1 62.69291 77.02362 cm
+1 0 0 1 62.69291 753.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -546,38 +579,29 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 77.02362 cm
+1 0 0 1 62.69291 753.0236 cm
 Q
- 
-endstream
-endobj
-37 0 obj
-<<
-/Length 3736
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 723.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Cuttle Pool) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 705.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A connection pooling implementation in Python that accepts any SQL driver.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 62.69291 699.0236 cm
 Q
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 62.69291 699.0236 cm
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
+1 0 0 1 62.69291 687.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -597,48 +621,48 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
+1 0 0 1 62.69291 687.0236 cm
 Q
 q
-1 0 0 1 62.69291 678.0236 cm
+1 0 0 1 62.69291 654.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 624.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Oregon State University) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 621.0236 cm
+1 0 0 1 62.69291 597.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (B.S. Computer Science \(In Progress\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 603.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (March 2016 - Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 585.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Class Projects) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 579.0236 cm
+1 0 0 1 62.69291 555.0236 cm
 Q
 q
-1 0 0 1 62.69291 579.0236 cm
+1 0 0 1 62.69291 555.0236 cm
 Q
 q
-1 0 0 1 62.69291 567.0236 cm
+1 0 0 1 62.69291 543.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -658,13 +682,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 567.0236 cm
+1 0 0 1 62.69291 543.0236 cm
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 Q
 q
-1 0 0 1 62.69291 472.0236 cm
+1 0 0 1 62.69291 448.0236 cm
 .960784 .960784 .862745 rg
 n 0 83 469.8898 -83 re f*
 0 0 0 rg
@@ -696,48 +720,48 @@ n 469.8898 0 m 469.8898 83 l S
 Q
 Q
 q
-1 0 0 1 62.69291 466.0236 cm
+1 0 0 1 62.69291 442.0236 cm
 Q
 q
-1 0 0 1 62.69291 436.0236 cm
+1 0 0 1 62.69291 412.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (University of California, San Diego) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 409.0236 cm
+1 0 0 1 62.69291 385.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (B.S. Cell Biology \(Completed\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 391.0236 cm
+1 0 0 1 62.69291 367.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (September 2010 - March 2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 358.0236 cm
+1 0 0 1 62.69291 334.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contact) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 340.0236 cm
+1 0 0 1 62.69291 316.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Feel free to contact me for any general queries or requests.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 334.0236 cm
+1 0 0 1 62.69291 310.0236 cm
 Q
 q
-1 0 0 1 62.69291 334.0236 cm
+1 0 0 1 62.69291 310.0236 cm
 Q
 q
-1 0 0 1 62.69291 322.0236 cm
+1 0 0 1 62.69291 298.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -757,10 +781,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 316.0236 cm
+1 0 0 1 62.69291 292.0236 cm
 Q
 q
-1 0 0 1 62.69291 304.0236 cm
+1 0 0 1 62.69291 280.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -780,7 +804,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 304.0236 cm
+1 0 0 1 62.69291 280.0236 cm
 Q
  
 endstream
@@ -809,13 +833,13 @@ xref
 0000000353 00000 n 
 0000000582 00000 n 
 0000000701 00000 n 
-0000000891 00000 n 
-0000001120 00000 n 
-0000001314 00000 n 
-0000001429 00000 n 
-0000001619 00000 n 
-0000001801 00000 n 
-0000001994 00000 n 
+0000000924 00000 n 
+0000001114 00000 n 
+0000001308 00000 n 
+0000001423 00000 n 
+0000001613 00000 n 
+0000001795 00000 n 
+0000001988 00000 n 
 0000002239 00000 n 
 0000002345 00000 n 
 0000002619 00000 n 
@@ -839,14 +863,14 @@ xref
 0000005106 00000 n 
 0000005215 00000 n 
 0000005282 00000 n 
-0000011405 00000 n 
-0000015193 00000 n 
-0000015243 00000 n 
-0000015277 00000 n 
+0000011380 00000 n 
+0000015542 00000 n 
+0000015592 00000 n 
+0000015626 00000 n 
 trailer
 <<
 /ID 
-[<3e89a7be74430910ea8396ea2ac5dbcc><3e89a7be74430910ea8396ea2ac5dbcc>]
+[<d73fdca3f120a40db15fe9f67fdbc6ec><d73fdca3f120a40db15fe9f67fdbc6ec>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 15 0 R
@@ -854,5 +878,5 @@ trailer
 /Size 41
 >>
 startxref
-15311
+15660
 %%EOF
