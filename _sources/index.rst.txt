@@ -11,9 +11,8 @@ Spencer Mitchell
 ################
 
 Currently a CS student at Oregon State University and Jr. Developer at SED
-Quaere. My main language proficiency is Python, followed by C/C++, Scheme, and
-JavaScript. A pdf version of this page can be found
-`here <https://github.com/smitchell556/smitchell556.github.io/blob/master/resume.pdf>`_.
+Quaere. My main language proficiency is Python, followed by JavaScript,
+Common Lisp, Go, and C/C++.
 
 
 ******************
@@ -28,9 +27,11 @@ Jr. Software Developer
 
 July 2016 - Present
 
-* Make full stack web applications using Flask and NGINX, that focus on
-  interactions with the file system and storing client data and inventory.
-* Created software using Golang for executing system commands on remote
+* Make full stack web applications using PHP, Flask(python), and
+  Caveman2(Common Lisp), that focus on interactions with the file system,
+  storing client data, inventory management, and bookkeeping.
+* Experience configuring multiple web servers including Apache and NGINX.
+* Created software using Go for executing system commands on remote
   servers.
 * Write scripts on an as needed basis.
 
@@ -49,14 +50,16 @@ September 2015 - June 2016
 City of Pomona
 ==============
 
-Community Services Specialist II
---------------------------------
+Community Services Specialist II, Teaching Aide, and Tutor
+----------------------------------------------------------
 
 February 2014 - June 2015
 
 * Supervised four after school recreation sites.
 * Created programming that was implemented across all recreation sites in
   Pomona with a focus on physical activities.
+* Tutored foster care youth.
+* Assisted teaching a STEM class for the children of migrant farm families.
 
 University of California, San Diego
 ===================================
