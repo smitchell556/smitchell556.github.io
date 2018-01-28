@@ -78,6 +78,22 @@ July 2012 - June 2013
 Personal Projects
 *****************
 
+Cuttle Pool
+===========
+
+A connection pooling implementation in Python that accepts any SQL driver.
+
+* `Docs/GitHub (https://github.com/smitchell556/cuttlepool)
+  <https://github.com/smitchell556/cuttlepool>`_
+
+Flask-CuttlePool
+================
+
+A Flask extension for Cuttle Pool.
+
+* `Docs/GitHub (https://github.com/smitchell556/flask-cuttlepool)
+  <https://github.com/smitchell556/flask-cuttlepool>`_
+
 Cuttle [DEPRECATED]
 ===================
 
@@ -86,14 +102,6 @@ is to be easy to use and extendable by allowing users to write custom methods on
 the user defined subclasses that represent the database tables.
 
 * `GitHub (https://github.com/smitchell556/cuttle) <https://github.com/smitchell556/cuttle>`_
-
-Cuttle Pool
-===========
-
-A connection pooling implementation in Python that accepts any SQL driver.
-
-* `Docs/GitHub (https://github.com/smitchell556/cuttlepool)
-  <https://github.com/smitchell556/cuttlepool>`_
 
 
 *********
