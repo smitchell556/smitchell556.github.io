@@ -29,7 +29,7 @@ July 2016 - Present
 
 * Make full stack web applications using PHP, Flask(python), and
   Caveman2(Common Lisp), that focus on interactions with the file system,
-  storing client data, inventory management, and bookkeeping.
+  storing client data, and bookkeeping.
 * Experience configuring multiple web servers including Apache and NGINX.
 * Created software using Go for executing system commands on remote
   servers.
